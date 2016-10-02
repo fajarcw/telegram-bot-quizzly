@@ -1,0 +1,7 @@
+.idea
+node_modules
+dist
+users.log
+users.json
+convertedUsersData.json
+log/
