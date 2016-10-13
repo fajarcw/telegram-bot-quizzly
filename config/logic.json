@@ -1,7 +1,5 @@
 {
-  "token": "272417179:AAFvH2TZNyWsQh6mB03j7OARxbQabMXnRPA",
+  "token": "277320993:AAGHkt5ygM4R4AzDjUUqKdsjI7RZhC4HKGA",
   "name": "Логические задачки Tutu.ru",
-  "category": "Logic",
-  "description": "Логические задачки от команды Tutu.ru",
   "file": "./quiz/logic"
 }

@@ -1,7 +1,5 @@
 {
-  "token": "184132778:AAGs0seAuxD2kLPi4w-gLpWDL6uQwuAwmFM",
+  "token": "270724424:AAHcSO98HdNRi9v3S-qrlcRIaWG8F14vFfM",
   "name": "Tutu.ru тест на знание Swift",
-  "category": "Swift",
-  "description": "Задачки от команды Tutu.ru",
   "file": "./quiz/ios"
 }

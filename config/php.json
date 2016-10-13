@@ -1,7 +1,5 @@
 {
-  "token": "283122508:AAHZ-wvraHPwafH0hloioV5W59T62WVLcNA",
+  "token": "223330967:AAFupBqSKTuGDk0eT2vp4ozRqyce8CwL8yY",
   "name": "Tutu.ru PHP Quiz",
-  "category": "PHP",
-  "description": "Test about PHP",
   "file": "./quiz/php"
 }
