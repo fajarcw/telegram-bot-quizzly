@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://.../quizzly.git"
+    "url": "git+https://github.com/fajarcw/telegram-bot-quizzly.git"
   },
   "author": "",
   "license": "ISC",
